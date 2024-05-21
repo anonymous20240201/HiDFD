@@ -23,7 +23,7 @@ Cd to generative_distillation
 run sh train.sh
 ```
 ## Student distillation
-
+Cd to student_distillation
 ```bash
 # CIFAR10
 python train_student.py --path_t './save/teachers/models/**.pth' --repeat_num 10
