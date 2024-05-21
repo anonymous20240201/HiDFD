@@ -18,8 +18,8 @@ python train_teacher.py --dataset cifar10
 python train_teacher.py --batch_size 256 --dataset imagenet --model ResNet18 --num_workers 32 --gpu_id 0,1,2,3,4,5,6,7 --dist-url tcp://127.0.0.1:23333 --multiprocessing-distributed --dali gpu --trial 0
 ```
 ## Generative distillation
-```bash
 Cd to generative_distillation
+```bash
 run sh train.sh
 ```
 ## Student distillation
