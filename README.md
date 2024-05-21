@@ -1,7 +1,7 @@
 # HiDFD
 
 Hybrid Data-Free Knowledge Distillation
-# Toolbox for 4Ds
+# Toolbox for HiDFD
 
 This repository aims to provide a compact and easy-to-use implementation of our proposed HiDFD on a series of data-free knowledg distillation tasks. 
 
